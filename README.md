@@ -23,7 +23,7 @@ Financial institutions rely on consistent, data-driven decisioning to assess cre
 
 ---
 
-## 🧠 Keywords / Tech Stack
+## 🧠 Tech Stack
 
 `Machine Learning` `Binary Classification` `Credit Risk` `Loan Default Prediction` `EDA` `Feature Engineering` `Multicollinearity (VIF)` `Class Imbalance` `Random Oversampling` `Logistic Regression` `Random Forest` `XGBoost` `Bagging Classifier` `Support Vector Machine (SVM)` `Decision Tree` `K-Fold Cross-Validation` `ROC-AUC` `Confusion Matrix` `Feature Importance` `Python` `Scikit-learn` `Pandas` `Seaborn`
 
