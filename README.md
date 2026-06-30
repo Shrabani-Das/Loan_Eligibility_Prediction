@@ -1,3 +1,5 @@
+<div align = "center">
+  
 # 🏦 Loan Eligibility Prediction
 
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue.svg)](https://www.python.org/)
@@ -7,7 +9,8 @@
 
 A supervised **binary classification** project that predicts whether a loan applicant is **eligible for loan approval** based on demographic, financial and credit history attributes. The project covers the complete machine learning lifecycle — exploratory data analysis, statistical diagnostics, class-imbalance handling, model benchmarking and feature interpretability.
 
----
+</div>
+
 
 ## 📌 Project Overview
 
